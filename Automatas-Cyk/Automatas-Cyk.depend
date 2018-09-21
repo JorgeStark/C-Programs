@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1479942986 source:c:\users\stark\desktop\automatas-cyk\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<set>
+	<map>
+
+1479997598 source:c:\users\stark\google drive\valdo\escuela\6to semestre\automatas\automatas-cyk\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<set>
+	<map>
+

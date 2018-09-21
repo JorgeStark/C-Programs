@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1479910559 source:c:\users\stark\desktop\automatas-cyk\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<set>
+	<map>
+

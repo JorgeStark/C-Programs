@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481157082 source:c:\users\stark\desktop\queue_automatas\main.cpp
+	<iostream>
+	<map>
+
